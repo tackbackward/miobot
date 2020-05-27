@@ -3,7 +3,7 @@ import asyncio
 import aiohttp
 
 
-TOKEN = "NzA1NzQxNDE3MjM4MjMzMDk4.XqwHCw.x5cUzgpNm1nZKGWi4iRgHt9buFg"
+TOKEN = ""
 
 client = discord.Client()
 
